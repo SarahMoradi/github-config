@@ -1,5 +1,5 @@
 Hey there 👩‍💻
-<hr/>
+<!-- <hr/> -->
 
 I am Sarah Moradi 👩, Motivated frontend/> developer from Iran🐱‍👤. Skilled in social
 relationships and team working 🙋‍♀🤝. Also
