@@ -30,9 +30,9 @@ and reading books 📚.
 </p>
 
 <h4 align="left">Tools :</h4>  
-<h5 align="left">git/git-flow/gitlab CI/CD</h5> 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/npm.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/git.svg" width="40"/>
 </p>
 
 
