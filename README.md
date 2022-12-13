@@ -11,7 +11,7 @@ designing 🌊, graphical artworks 🖍, painting
 and reading books 📚.
 
 ### Connect with me:
-  <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
+  <a href="www.linkedin.com/in/sarah-moradii" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
 </p>
 
 ### 🛠 Skills
