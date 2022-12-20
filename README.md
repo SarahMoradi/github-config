@@ -11,7 +11,7 @@ designing 🌊, graphical artworks 🖍, painting
 and reading books 📚.
 
 ### Connect with me:
-  <a href="www.linkedin.com/in/sarah-moradii" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sarah moradi LinkedIn Profile" height="40" width="40"></a>
+  <a href="www.linkedin.com/in/sarah-moradii" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="SarahMoradi LinkedIn Profile" height="40" width="40"></a>
 </p>
 
 ### 🛠 Skills
