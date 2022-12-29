@@ -21,10 +21,15 @@ and reading books 📚.
   <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
+  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjrYr42E.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/npm.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjpyx6Fq.svg" width="40"/>
+  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjoM9VDF.svg" width="60"/>
+  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjqoQzLi.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/npm.svg" width="60"/>
 </p>
 <br/>
 <h1 align="center">Connect with me</h1> 
