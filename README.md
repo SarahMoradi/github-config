@@ -1,14 +1,14 @@
-Hey there 👩‍💻
+<h1>Hey there 👩‍💻</h1>
 <!-- <hr/> -->
 
-I am Sarah Moradi 👩, Motivated frontend/> developer from Iran🐱‍👤. Skilled in social
-relationships and team working 🙋‍♀🤝. Also
+I am Sarah Moradi, frontend/> developer from Iran. Skilled in social
+relationships and team working. Also
 interested in learning daily about new
-technology for upsurging performance 💻. It is considerable to mention that I
-utilize my creativity at work 🌈. hobbies and
+technology for upsurging performance. It is considerable to mention that I
+utilize my creativity at work. hobbies and
 interests that I could point to would be
-designing 🌊, graphical artworks 🖍, painting
-and reading books 📚.
+designing, graphical artworks 🖍, painting
+and reading books.
 <br/>
 <br/><br/>
 
