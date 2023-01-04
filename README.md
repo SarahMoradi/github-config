@@ -7,7 +7,7 @@ interested in learning daily about new
 technology for upsurging performance. It is considerable to mention that I
 utilize my creativity at work. hobbies and
 interests that I could point to would be
-designing, graphical artworks 🖍, painting
+designing, graphical artworks, painting
 and reading books.
 <br/>
 <br/><br/>
