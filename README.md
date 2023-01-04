@@ -25,9 +25,7 @@ and reading books.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjpyx6Fq.svg" width="40"/>
   <img src="https://upcdn.io/W142hJk/raw/demo/4mkjoM9VDF.svg" width="60"/>
-  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjqoQzLi.svg" width="40"/>
   <img src="https://ucarecdn.com/6f960c8d-01e6-40d7-a65f-e46d83d18b79/" width="50"/>
   <img src="https://ucarecdn.com/c2b2e3cb-eb50-4dbb-bf07-05bc67f68484/" width="40"/>
 </p>
