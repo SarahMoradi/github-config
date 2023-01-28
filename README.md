@@ -21,11 +21,11 @@ and reading books.
    <img src="https://ucarecdn.com/3f431bce-e529-4156-bcad-05e893197636/" width="40"/>
   <img src="https://ucarecdn.com/65119595-c0b0-4b95-93d8-dd748c18f7d6/" width="50"/>
   <img src="https://ucarecdn.com/58454cf4-2124-4616-8f02-f52c51a6237f/" width="40"/> 
-  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjrYr42E.svg" width="40"/> 
+<!--   <img src="https://upcdn.io/W142hJk/raw/demo/4mkjrYr42E.svg" width="40"/>  -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://upcdn.io/W142hJk/raw/demo/4mkjoM9VDF.svg" width="60"/>
+<!--   <img src="https://upcdn.io/W142hJk/raw/demo/4mkjoM9VDF.svg" width="60"/> -->
   <img src="https://ucarecdn.com/6f960c8d-01e6-40d7-a65f-e46d83d18b79/" width="50"/>
   <img src="https://ucarecdn.com/c2b2e3cb-eb50-4dbb-bf07-05bc67f68484/" width="40"/>
 </p>
