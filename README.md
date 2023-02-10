@@ -33,6 +33,7 @@ and reading books.
 <h1 align="center">Connect with me</h1> 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/sarah-moradii/" target="blank">
+  
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="SarahMoradi LinkedIn Profile" height="40" width="40">
   </a>
   <a href="https://t.me/CaptainHoook" target="blank">
